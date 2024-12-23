@@ -2,6 +2,12 @@
 
 This project provides a **CSGO Skin Price Prediction System** that integrates **real-time data collection**, **price prediction** (ARIMA, Prophet, LSTM, GAN), and **model verification**. It also includes RESTful APIs for easy access.
 
+
+---
+
+## Project Youtube Vedio
+https://www.youtube.com/watch?v=MA5-19DV08U
+
 ---
 
 ## Project Structure
